@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rishabh Garg
+- 👋 Hi, I’m Rishabh Garg
 - 👀 I’m interested in competetive coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and C,C++
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me? Rishabhgarg750@gmail.com
 
